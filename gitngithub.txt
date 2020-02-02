@@ -1,0 +1,5 @@
+tujuan dibuatnya repo pertama di github ini:
+- mengerti apa itu git dan github
+- mempraktekkan langsung apa yang di share oleh mentor KCMI
+- sempatkan waktu untuk coding minimal seminggu sekali
+- tetap semangat
