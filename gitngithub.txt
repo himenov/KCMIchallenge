@@ -5,3 +5,4 @@ tujuan dibuatnya repo pertama di github ini:
 - mengedit dan mendelete file
 - melihat history perubahan file
 - terus ikuti kulgram KCMI
+- sempatkan waktu untuk buka laptop paling tidak satu jam sehari
